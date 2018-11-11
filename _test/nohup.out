@@ -1,0 +1,35 @@
+[I 01:57:23.537 NotebookApp] Serving notebooks from local directory: /Users/abhoffman/Dropbox/abe/hoffman-dynamics/zeta/_test
+[I 01:57:23.537 NotebookApp] The Jupyter Notebook is running at:
+[I 01:57:23.537 NotebookApp] http://localhost:8888/?token=1f36373eac5f01ff8f9e28b4c09a2cd32944881b6c8428f7
+[I 01:57:23.537 NotebookApp] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[C 01:57:23.538 NotebookApp] 
+    
+    Copy/paste this URL into your browser when you connect for the first time,
+    to login with a token:
+        http://localhost:8888/?token=1f36373eac5f01ff8f9e28b4c09a2cd32944881b6c8428f7
+[I 01:57:32.721 NotebookApp] 302 GET /?token=1f36373eac5f01ff8f9e28b4c09a2cd32944881b6c8428f7 (::1) 0.81ms
+[I 02:01:31.290 NotebookApp] Creating new notebook in 
+[I 02:01:32.583 NotebookApp] Kernel started: 4be8f019-9256-482c-9bfe-7058d76dac17
+[I 02:01:33.193 NotebookApp] Adapting to protocol v5.1 for kernel 4be8f019-9256-482c-9bfe-7058d76dac17
+[I 02:03:32.568 NotebookApp] Saving file at /Untitled.ipynb
+[I 02:41:37.974 NotebookApp] Saving file at /Untitled.ipynb
+[I 02:43:38.752 NotebookApp] Saving file at /Untitled.ipynb
+[I 02:49:39.371 NotebookApp] Saving file at /Untitled.ipynb
+[I 02:51:40.238 NotebookApp] Saving file at /Untitled.ipynb
+[I 02:55:00.017 NotebookApp] Starting buffering for 4be8f019-9256-482c-9bfe-7058d76dac17:cd864bbc7a23443fbfe27d3e7e39c6cb
+[I 02:55:00.337 NotebookApp] Kernel shutdown: 4be8f019-9256-482c-9bfe-7058d76dac17
+[C 02:55:34.371 NotebookApp] received signal 15, stopping
+[I 02:55:34.374 NotebookApp] Shutting down 0 kernels
+[I 14:03:36.383 NotebookApp] Serving notebooks from local directory: /Users/abhoffman/Dropbox/abe/hoffman-dynamics/zeta/_test
+[I 14:03:36.383 NotebookApp] The Jupyter Notebook is running at:
+[I 14:03:36.383 NotebookApp] http://localhost:8888/?token=7af9b7d84368cbe05a650ca85e11377517185450ba4f6b51
+[I 14:03:36.383 NotebookApp] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[C 14:03:36.384 NotebookApp] 
+    
+    Copy/paste this URL into your browser when you connect for the first time,
+    to login with a token:
+        http://localhost:8888/?token=7af9b7d84368cbe05a650ca85e11377517185450ba4f6b51
+[I 14:03:42.370 NotebookApp] 302 GET /?token=7af9b7d84368cbe05a650ca85e11377517185450ba4f6b51 (::1) 0.90ms
+[I 14:03:45.366 NotebookApp] Kernel started: 47a5bd25-bbb5-4e15-99cb-545a4641f25c
+[I 14:03:46.232 NotebookApp] Adapting to protocol v5.1 for kernel 47a5bd25-bbb5-4e15-99cb-545a4641f25c
+[I 14:27:49.602 NotebookApp] Saving file at /Untitled.ipynb
